@@ -1,0 +1,8 @@
+# Công cụ nạp Firmware và giao tiếp với ESP32-S3 qua Terminal
+esptool>=5.0.0
+pyserial>=3.5
+mpremote>=1.20.0
+
+# Thư viện hỗ trợ gỡ lỗi và phân tích log CSV dữ liệu pH trên máy tính
+pandas>=2.0.0
+matplotlib>=3.7.0
